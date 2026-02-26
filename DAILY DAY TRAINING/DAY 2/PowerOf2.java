@@ -10,6 +10,7 @@ public class PowerOf2 {
         } else {
             System.out.println("The number is not a power of 2");
         }
+        scan.close();
     }    
 }
 
