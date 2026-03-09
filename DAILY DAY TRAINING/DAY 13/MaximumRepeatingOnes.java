@@ -17,6 +17,6 @@ public class MaximumRepeatingOnes {
 
     public static void main(String[] args) {
         int[] arr = {1, 1, 0, 1, 1, 1, 0, 1};
-        System.out.println(maximumRepeatingOnes(arr)); // Output: 3
+        System.out.println("\n\n\n\n"+maximumRepeatingOnes(arr)); // Output: 3
     }
 }
